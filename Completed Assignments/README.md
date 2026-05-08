@@ -6,8 +6,8 @@
 
 ## Working with Data Basic
 
-- [02a - Mini Quiz](01-Python_Foundations/01-Working_with_Data_Basic/Assessments/02a-mini_quiz.ipynb)
-- [01 - Lists](./Assignments/01-Python_Foundations/01-Working_with_Data_Basic/Lessons/01-Lists/01-Lists.ipynb)
+- [02a - Mini Quiz](./Assignments/01-Python_Foundations/01-Working_with_Data_Basic/Assessments/02a-mini_quiz.ipynb)
+- [01 - Lists](https://github.com/EduardoMSU/4545-Spatial-Data/blob/main/Assignments/01-Python_Foundations/01-Working_with_Data_Basic/Lessons/01-Lists/01-Lists.ipynb)
 - [02 - Tuples](./Assignments/01-Python_Foundations/01-Working_with_Data_Basic/Lessons/02-Tuples/02-Tuples.ipynb)
 - [03 - Data Types and Arithmetic](./Assignments/01-Python_Foundations/01-Working_with_Data_Basic/Lessons/03-Data_Types_and_Arithmetic/03-Data_Types_and_Arithmetic.ipynb)
 - [03 - Dictionaries](./Assignments/01-Python_Foundations/01-Working_with_Data_Basic/Lessons/03-Dictionaries/03-Dictionaries.ipynb)
